@@ -1,0 +1,10 @@
+{
+  "description": "Provides geodetic engineers with a green-themed desktop Land Information System enhanced by LLM for efficient spatial data management and analysis.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
